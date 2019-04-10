@@ -1,4 +1,7 @@
-# phonebook
+# Phonebook
+
+## Live Demo
+https://robnagy.github.io/phonebook-simple/dist/
 
 ## Project setup
 ```
